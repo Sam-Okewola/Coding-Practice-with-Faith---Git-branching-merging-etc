@@ -1,2 +1,2 @@
-# Coding-Practice-with-Faith---Git-branching-merging-etc
+# Coding-Practice-with-Faith
 Learning gits, branching, merging
